@@ -1,4 +1,4 @@
 programmer
 ==========
 
-machine instructor
+everyone should program a computer.
